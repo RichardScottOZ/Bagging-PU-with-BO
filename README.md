@@ -1,3 +1,5 @@
+## Note - Patch-2 is Dev branch with some fixes
+
 # Bagging-PU-with-BO
 The code for the Bagging-based PU learning with Bayesian hyper-parameter optimization for 3D mineral potential mapping;
 
